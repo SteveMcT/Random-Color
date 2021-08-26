@@ -1,0 +1,19 @@
+{
+  "name": "random-color",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2",
+    "vite": "^2.5.1"
+  },
+  "dependencies": {
+    "@types/tinycolor2": "^1.4.3",
+    "is-dark": "^1.0.4",
+    "sass": "^1.38.1",
+    "tinycolor2": "^1.4.2"
+  }
+}
